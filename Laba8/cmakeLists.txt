@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.26)
+
+project(Laba_number_8)
+
+add_executable(Laba_number_8 src/Animals.h src/Animals.cpp src/8laba.cpp)
