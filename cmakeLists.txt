@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.26)
+
+project(Laba_number_9)
+
+add_executable(Laba_number_9 src/Text.txt src/Lab9My.cpp)
