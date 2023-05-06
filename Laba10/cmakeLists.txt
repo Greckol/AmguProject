@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.26)
+
+project(Laba_number_10)
+
+add_executable(Laba_number_10 src/Laba10.cpp)
